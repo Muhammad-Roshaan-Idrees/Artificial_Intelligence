@@ -7,7 +7,7 @@ Original file is located at
     https://colab.research.google.com/drive/1iwlWLcYUrfVWKte0SQI-dJQWsaUULOgX
 
 **Muhammad Roshaan Idrees**          
-  **56177**
+**56177**
 
 Arihmetic Operators
 """
